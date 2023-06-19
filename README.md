@@ -1,6 +1,6 @@
 # Text Analysis Program
 
-This llows users to perform various types of analysis on text input. It utilises the Natural Language Toolkit (NLTK) and the TextBlob library to provide insights into the provided text.
+This allows users to perform various types of analysis on text input. It utilises the Natural Language Toolkit (NLTK) and the TextBlob library to provide insights into the provided text.
 
 The program includes the following analysis features:
 
